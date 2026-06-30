@@ -5,11 +5,11 @@ This project is part of my Data Analyst Internship Task 2.
 It focuses on data visualization and storytelling using Power BI.
 
 Files in Repo
-- `Sample - Superstore.csv` → Original dataset
-- `cleaned_superstore.xlsx` → Cleaned dataset
-- `dashboard.pbix` → Power BI dashboard file
-- `/screenshots/` → Dashboard screenshots
-- `README.md` → Project documentation
+- 'Sample - Superstore.csv' → Original dataset
+- 'cleaned_superstore.xlsx' → Cleaned dataset
+- 'dashboard.pbix' → Power BI dashboard file
+- '/screenshots/' → Dashboard screenshots
+- 'README.md' → Project documentation
 
 Key Insights
 - Technology category drives consistent growth.
@@ -21,5 +21,6 @@ Tools Used
 - Python (for cleaning)
 - GitHub (for submission)
 
+📷 Dashboard Preview
 
-![Dashboard Overview](screenshots/Screenshot S1.png)
+![Dashboard](Screenshot 1.png)
