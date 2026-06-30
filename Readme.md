@@ -22,4 +22,4 @@ Tools Used
 - GitHub (for submission)
 
 Screenshots
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](screenshots/Screenshot S1.png)
