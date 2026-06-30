@@ -22,6 +22,8 @@ Tools Used
 - Python (for cleaning)
 - GitHub (for submission)
 - ![Dashboard](Screenshot%20S1.png)
+- ![Dashboard](Screenshot%20S2.png)
+- ![Dashboard](Screenshot%20S3.png)
 
 
  
